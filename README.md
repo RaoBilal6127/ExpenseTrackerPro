@@ -8,7 +8,7 @@ It consists of two modules:
 Features include:
 - User can Signup.
 - User can Login.
-- User can forget his password.
+- User can change his password.
 - User can modify his other information.
 - User can see data of recent 5 transactions on dashboard.
 - Transactions can be of two types: (Income and Expense)
